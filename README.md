@@ -2,12 +2,11 @@
 
 ## Web Projects
 
-- **[SmartCV AI]((https://smart-cv-ai-rho.vercel.app/))** – An AI-powered resume analyzer that evaluates resumes, calculates ATS scores, and provides intelligent improvement suggestions.
+- **[SmartCV AI](https://smart-cv-ai-rho.vercel.app/)** – An AI-powered resume analyzer that evaluates resumes, calculates ATS scores, and provides intelligent improvement suggestions.
 
-- **[Nexus AI]([(https://github.com/guru340/Nexus_AI.git))** – A full-stack AI platform integrating multiple intelligent features, focused on enhancing user productivity and automation.
+- **[Nexus AI](https://github.com/guru340/Nexus_AI.git)** – A full-stack AI platform integrating multiple intelligent features, focused on enhancing user productivity and automation.
 
-- **[CodeHarbour]([https://your-codeharbour-link.com](https://codeharbour-dev.vercel.app/))** – A developer-centric platform for managing projects, sharing code, and improving collaboration across teams.
-
+- **[CodeHarbour](https://codeharbour-dev.vercel.app/)** – A developer-centric platform for managing projects, sharing code, and improving collaboration across teams.
 
 
 ---
