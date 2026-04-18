@@ -8,14 +8,14 @@
 
 - **[CodeHarbour](https://codeharbour-dev.vercel.app/)** – A developer-centric platform for managing projects, sharing code, and improving collaboration across teams.
 
-- **DSA Practice (750+ Problems Solved)**  
+## DSA Practice
 
-  [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/yourusername)
-  [![GeeksforGeeks](https://img.shields.io/badge/GFG-darkgreen?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/yourusername)
-  [![CSES](https://img.shields.io/badge/CSES-black?logo=code&logoColor=white)](https://cses.fi/problemset/)
+- **Solved 750+ Problems across platforms**
 
----
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gurusangwani06/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Mayank108)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/gurusangwani06?tab=activity)
+[![CSES](https://img.shields.io/badge/CSES-000000?style=for-the-badge&logo=code&logoColor=white)](https://cses.fi/user/408245)
 
 ## Currently Exploring
 - **AI**: Working with LLMs and building intelligent applications.
@@ -37,5 +37,6 @@
 ---
 
 ## My Socials
-- X - https://x.com/yourhandle  
-- Portfolio - https://yourportfolio.com
+- X - https://x.com/MayankSang253
+- Linkedin -https://www.linkedin.com/in/mayank-sangwani-164ab12a9/
+
