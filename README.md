@@ -1,25 +1,14 @@
 # Showcase :)
 
-Web Projects
--[Exchange-v1](https://your-live-link.com) | [Code](https://github.com/yourusername/exchange-v1)– A scalable backend system built using Spring Boot, featuring user service, activity tracking, and service communication using Eureka and WebClient.
+## Web Projects
 
-- **SmartCV AI** – An AI-powered resume analyzer that evaluates resumes, calculates ATS scores, and provides improvement suggestions.
+- **[SmartCV AI]((https://smart-cv-ai-rho.vercel.app/))** – An AI-powered resume analyzer that evaluates resumes, calculates ATS scores, and provides intelligent improvement suggestions.
 
-- **Gym Booking Platform** – A platform similar to OYO but for gyms, allowing users to book gym sessions with a unified subscription model.
+- **[Nexus AI]([(https://github.com/guru340/Nexus_AI.git))** – A full-stack AI platform integrating multiple intelligent features, focused on enhancing user productivity and automation.
 
----
+- **[CodeHarbour]([https://your-codeharbour-link.com](https://codeharbour-dev.vercel.app/))** – A developer-centric platform for managing projects, sharing code, and improving collaboration across teams.
 
-## Bots
-- **Telegram Automation Bot** – A bot that automates tasks like notifications, reminders, and integrations using Telegram APIs.
 
----
-
-## Others
-- **OpenRouter Integration App** – An application that connects multiple AI models through a single interface for seamless switching and usage.
-
-- **Terminal UI Library** – A library for building interactive terminal-based user interfaces for CLI applications.
-
-- **Pocketly** – A personal expense tracker that helps users manage spending, track transactions, and analyze financial habits.
 
 ---
 
