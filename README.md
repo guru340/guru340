@@ -31,7 +31,14 @@
 ---
 
 ## Familiar with
-`Java` `Spring Boot` `React` `MongoDB` `PostgreSQL` `Node.js` `Docker` `Git`
+![Antigravity](https://img.shields.io/badge/Antigravity-black?style=flat&logo=vercel&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-purple?style=flat)
+![Claude Code](https://img.shields.io/badge/AI-Claude%20Code-orange?style=flat)
+![Cursor](https://img.shields.io/badge/Cursor-black?style=flat)
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-00C853?style=flat)
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
 
 ---
 
