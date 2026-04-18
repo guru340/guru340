@@ -8,6 +8,12 @@
 
 - **[CodeHarbour](https://codeharbour-dev.vercel.app/)** – A developer-centric platform for managing projects, sharing code, and improving collaboration across teams.
 
+- **DSA Practice (750+ Problems Solved)**  
+
+  [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/yourusername)
+  [![GeeksforGeeks](https://img.shields.io/badge/GFG-darkgreen?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/yourusername)
+  [![CSES](https://img.shields.io/badge/CSES-black?logo=code&logoColor=white)](https://cses.fi/problemset/)
 
 ---
 
