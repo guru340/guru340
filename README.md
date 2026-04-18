@@ -1,6 +1,6 @@
 # Showcase :)
 
-## Web Projects
+Web Projects
 - **Fitness Microservices App** – A scalable backend system built using Spring Boot, featuring user service, activity tracking, and service communication using Eureka and WebClient.
 
 - **SmartCV AI** – An AI-powered resume analyzer that evaluates resumes, calculates ATS scores, and provides improvement suggestions.
